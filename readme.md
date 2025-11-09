@@ -74,8 +74,8 @@ This test goes through the complete buying process:
 
 1. Download the project:
 ```bash
-git clone <your-repo-url>
-cd PCucumber
+git clone <(https://github.com/ManuelTissone/SauceDemo-E-commerce)>
+cd SauceDemoE-commerce
 ```
 
 2. Install everything needed:
