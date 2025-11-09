@@ -74,7 +74,7 @@ This test goes through the complete buying process:
 
 1. Download the project:
 ```bash
-git clone <(https://github.com/ManuelTissone/SauceDemo-E-commerce)>
+git clone <[(https://github.com/ManuelTissone/SauceDemo-E-commerce](https://github.com/ManuelTissone/sauceDemo-buyflow-automation))>
 cd SauceDemoE-commerce
 ```
 
